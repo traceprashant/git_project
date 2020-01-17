@@ -3,3 +3,5 @@ second commit - master
 third commit - master
 branch_a - first commit
 branch_a - second commit
+staged data - testing reset
+unstaged data - testing reset
