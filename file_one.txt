@@ -2,3 +2,4 @@ first commit - master
 second commit - master
 third commit - master
 branch_a - first commit
+branch_a - second commit
