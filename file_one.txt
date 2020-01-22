@@ -5,3 +5,8 @@ fourth commit - master
 fifth commit - master
 first commit - ff branch
 sixth commit - master
+branch_a - first commit
+branch_a - second commit
+staged data - testing reset
+unstaged data - testing reset
+
