@@ -4,3 +4,4 @@ third commit - master
 fourth commit - master
 fifth commit - master
 first commit - ff branch
+sixth commit - master
